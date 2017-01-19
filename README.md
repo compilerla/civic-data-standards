@@ -27,3 +27,4 @@ Name(URL) Maintainer Notes
 Other Lists
 + [List of Data Standards Maintained](https://docs.google.com/spreadsheets/d/1r7OByH4IeFHzot43nayjlplgEHHW91I4uBIUn59SKgU/htmlview#) by [James McKinney](https://twitter.com/mckinneyjames)
 + [Open Data Standards Report GitBook](https://azavea.gitbooks.io/open-data-standards/content/) by [Azavea](https://twitter.com/azavea)
++ [Standards Officially Adopted by UK Government](https://standards.data.gov.uk/challenges/adopted)
