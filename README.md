@@ -13,6 +13,7 @@ Name(URL) Maintainer Notes
 + [Housefacts](https://sites.google.com/site/housefactsdatastandard/home/specification)
 + [Human Services Data Specification](https://github.com/codeforamerica/OpenReferral/blob/master/Human%20Services%20Data%20Specification%20%20v1.0.md) Open Referral
 + [Local Inspector Value-Entry Specification (LIVES)](https://www.yelp.com/healthscores) Yelp
++ [MassGIS Standard for Digital Parcel Files](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/standards/standard-parcels.html) State of Massachusetts, MassGIS
 + [OCD Specification](http://docs.opencivicdata.org/en/latest/data/introduction.html) Sunlight Foundation
 + [Open Contracting](http://standard.open-contracting.org/latest/en/)
 + [Open Eligibility](http://about.auntbertha.com/openeligibility) Open Referral
